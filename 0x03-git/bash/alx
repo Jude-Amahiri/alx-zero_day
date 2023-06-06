@@ -1,1 +1,5 @@
-echo " ALX School"
+<<<<<<< HEAD
+ALX School
+=======
+echo "ALX School"
+>>>>>>> 80c51de4e541cbb76520e400b8c385878471a562
